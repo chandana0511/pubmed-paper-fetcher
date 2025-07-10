@@ -26,6 +26,7 @@ This project provides a command-line tool and Python module to fetch PubMed pape
 
 ```sh
 git clone https://github.com/chandana0511/pubmed-paper-fetcher.git
+pip install poetry
 cd pubmed-paper-fetcher
 poetry install
 ```
