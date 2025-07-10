@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pubmed-paper-fetcher-chandana"
-version = "0.1.3"
+version = "0.1.4"
 description = "A professional CLI tool to fetch and filter PubMed research papers with pharmaceutical or biotech company authors, supporting advanced queries and CSV export."
 authors = ["Chandana Rama <b20ai024@kitsw.ac.in>"]
 license = "MIT"
